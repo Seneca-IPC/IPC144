@@ -1,3 +1,14 @@
+# !!! CHANGE THIS LAB !!!
+This lab needs to reflect the new coding and submission process...
+
+Refer to OOP244 Assignment0 lab as a starting point (revise and simplify).
+
+[OOP244 set-up instructions](https://github.com/Seneca-244200/OOP-Assignments/tree/main/AS00)
+
+---
+
+# OLD Lab:
+
 # Lab 0
 
 This lab is worth 0% of your final grade
