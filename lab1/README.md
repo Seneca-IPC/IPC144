@@ -10,8 +10,9 @@ This lab is worth 1.25% of your final grade
  
 ## Objectives:
 
-* Practice writing a simple program that involves input and output
-* Practice writing a simple program that involves a calculation
+* Practice writing a simple program that involves: 
+	- input and output
+	- coding simple calculations
 
 ## Expectations Going into this Lab:
 
@@ -20,15 +21,30 @@ To successfully complete this lab it is expected you have done the following:
 * Prior to the lab, have read the listed topics for weeks 1 and 2 (see Weekly Content item on blackboard).
 	* [Background](https://seneca-scpa.github.io/Introduction-To-Programming/A-Introduction/intro)
 	* [Data Types](https://seneca-scpa.github.io/Introduction-To-Programming/A-Introduction/intro)
-	* [Mathematical Operator](https://seneca-scpa.github.io/Introduction-To-Programming/C-Math/intro)
+	* [Mathematical Operators](https://seneca-scpa.github.io/Introduction-To-Programming/C-Math/intro)
 	* [Introduction to Code Reading](https://seneca-scpa.github.io/Introduction-To-Programming/D-ReadingAndDebugging/intro)
-* Complete or nearing completion of an IDE on your own personal device.
+* Complete or nearing completion installing an IDE on your own personal device.
 
 
 > [!WARNING]  
-> Codespaces will be turned off soon and you will need to work on your code using a properly installed IDE on your machine.
+> Using GitHub's Codespaces directly within the browser has a 60 hours per month quota before it will COST you $ (pay-as-you-go basis).
+> As of June, 2026, the costs are as follows:
+> * $0.18 per hour PLUS...
+> * $0.07 per GB/hr. usage
+>
+> This can add up quickly if you are not responsibly managing your usage!
+>
+> ---
+>
+> **\$ SAVE \$ and work like a professional!**
+> Professionals use various IDE development tools and don't rely on browser-based environments.
+>
+> It is important and expected you will be coding using a professional-grade IDE installed on your own device. This permits you to work offline and will not incur any **\$costs\$**!
 
-## Lab Repository
+
+## Lab Preparation
+
+**DO NOT PROCEED** if you have not completed [Lab0](../lab0/README.md) where you learn the process involved in completing a lab and how to submit your work!
 
 ### Already did Lab-0?
 If you have already have completed Lab-0 and have your **own code repository**, go directly to your repository:
