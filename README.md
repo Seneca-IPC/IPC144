@@ -4,16 +4,16 @@
 
 ## Labs
 
-* [Labs 0](lab0)
-* [Labs 1](lab1)
-* [Labs 2](lab2)
-* [Labs 3](lab3)
-* [Labs 4](lab4)
-* [Labs 5](lab5)
-* [Labs 6](lab6)
-* [Labs 7](lab7)
-* [Labs 8](lab8)
-* [Labs 9](lab9)
+* [Lab 0](lab0)
+* [Lab 1](lab1)
+* [Lab 2](lab2)
+* [Lab 3](lab3)
+* [Lab 4](lab4)
+* [Lab 5](lab5)
+* [Lab 6](lab6)
+* [Lab 7](lab7)
+* [Lab 8](lab8)
+* [Lab 9](lab9)
 
 ## Projects
 
