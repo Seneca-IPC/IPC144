@@ -486,39 +486,39 @@ Therefore, using your IDE is not required for this lab.
 > [!IMPORTANT]
 > Be sure to **REPLACE** all the parts where you must personalize it to you **YOUR** information. This includes the commented section at the top not just the output `printf` statements within the code.
 
-    ``` C
-    /*
-        Lab-0  : A simple C program to use for my first trial submission!
+```c
+/*
+    Lab-0  : A simple C program to use for my first trial submission!
+    
+    Name   : Student Name
+    Email  : studentLogin@myseneca.ca
+    ID     : 123456789
+    Git URL: GitLab0URL (get this from your internet browser)
+*/
+
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Lab-0\n"
+        "---------------------------------------\n\n");
+
+    // REPLACE: 'Student Name' with YOUR full name
+    printf("Name   : Student Name\n");
+
+    // REPLACE: 'studentLogin' with YOUR Seneca login name
+    printf("Email  : studentLogin@myseneca.ca\n");
+
+    // REPLACE: '123456789' with YOUR 9-digit Student ID number
+    printf("ID     : 123456789\n");
+
+    // REPLACE: 'GitLab0URL' with the URL to your git repo lab0 directory
+    // (Copy the URL from your internet browser to the full path of your lab0 directory)
+    printf("Git URL: GitLab0URL\n\n");
         
-        Name   : Student Name
-        Email  : studentLogin@myseneca.ca
-        ID     : 123456789
-        Git URL: GitLab0URL (get this from your internet browser)
-    */
-
-    #include <stdio.h>
-
-    int main(void)
-    {
-        printf("Lab-0\n"
-            "---------------------------------------\n\n");
-
-        // REPLACE: 'Student Name' with YOUR full name
-        printf("Name   : Student Name\n");
-
-        // REPLACE: 'studentLogin' with YOUR Seneca login name
-        printf("Email  : studentLogin@myseneca.ca\n");
-
-        // REPLACE: '123456789' with YOUR 9-digit Student ID number
-        printf("ID     : 123456789\n");
-
-        // REPLACE: 'GitLab0URL' with the URL to your git repo lab0 directory
-        // (Copy the URL from your internet browser to the full path of your lab0 directory)
-        printf("Git URL: GitLab0URL\n\n");
-            
-        return 0;
-    }
-    ```
+    return 0;
+}
+```
 
 3. **MODIFY** the C program code where the comments indicate. Substitute all the places where your personal information should be located. There are two major sections to replace \(the upfront commented block at the top and the code section within the `main` function\)
 
