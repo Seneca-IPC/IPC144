@@ -62,12 +62,12 @@ If you do not already have your own private GitHub account \(Note: Not a Seneca 
 3. Fill out the new user information. 
 	- Carefully choose a professional \"Username\" as this will be seen by potential employers in the future! This is also how you will sign-in to GitHub for authentication etc. so keep it simple and memorable.
 	
-    > [!CAUTION]
-    >
-    > Regarding your EMAIL ADDRESS: Use a **private email address** like: GMail, Hotmail, Apple, etc.
-    >
-    > It is critical you **DO NOT** use your Seneca email address!
-    >
+> [!CAUTION]
+>
+> Regarding your EMAIL ADDRESS: Use a **private email address** like: GMail, Hotmail, Apple, etc.
+>
+> It is critical you **DO NOT** use your Seneca email address!
+>
 
 4. When you are done, click the green button: **`Create account`**
 
@@ -85,14 +85,14 @@ You need to create a centralized code repository on GitHub where all your lab an
 	- 2. **Configuration**: Change the repository visibility to **`PRIVATE`**
     - 3. Click the **`Create repository`** green button \(it will take a few seconds to generate your repository, so be patient\)
     
-    > [!CAUTION]
-    > 
-    > This is **CRITICAL**! You MUST change your repository to be **PRIVATE**.
-    >
-    > Keeping your repository to the default "public" state will result in an 
-    > **ACADEMIC INTEGRITY VIOLATION** as your work **MUST** be protected from public visibility.
-    >
-    > **Only you and your professor should have access to your personal coded solutions.**
+> [!CAUTION]
+> 
+> This is **CRITICAL**! You MUST change your repository to be **PRIVATE**.
+>
+> Keeping your repository to the default "public" state will result in an 
+> **ACADEMIC INTEGRITY VIOLATION** as your work **MUST** be protected from public visibility.
+>
+> **Only you and your professor should have access to your personal coded solutions.**
 
 3. Provide your professor access to your new **PRIVATE** repository:
     - Once the repository is created, click the **`Settings`** gear from the top menu
@@ -103,12 +103,12 @@ You need to create a centralized code repository on GitHub where all your lab an
 7. GitHub will attempt to find the account. 
     - Select the account that matched the username you entered
     
-    > [!NOTE]
-    >
-    > If your professor's account can't be found, you will need to return to this section later 
-    > when your professor can provide you with the correct username for their GitHub account.
-    >
-    > It is important this step be done otherwise, your professor will not have access to your work.
+> [!NOTE]
+>
+> If your professor's account can't be found, you will need to return to this section later 
+> when your professor can provide you with the correct username for their GitHub account.
+>
+> It is important this step be done otherwise, your professor will not have access to your work.
 
 8. Click the green button **`Add to repository`** (this will provide your professor access to your repository code) 
     
@@ -315,10 +315,10 @@ You will need to install this helper script on all your devices \(but **NOT** on
 		├── ⚙️ install.command
 		└── ⚙️ gitpush.sh
     ```
-    > [!CAUTION]
-	>
-    > DO NOT PROCEED if you have not **EXTRACTED** the files from the zip archived file!
-    >
+> [!CAUTION]
+>
+> DO NOT PROCEED if you have not **EXTRACTED** the files from the zip archived file!
+>
 
 4. Open the **`README.txt`** file with a text editor and follow the directions.
 
@@ -393,11 +393,11 @@ You will need to `clone` (copy) your GitHub **PRIVATE `ipc144`** repository only
     
     Locate a place where you want your **`ipc144`** GitHub repository to be stored. This will be where you will be coding your solutions throughout the semester, so don't forget the location!
     
-    > [!CAUTION]
-    > 
-    > **DO NOT** place your cloned repository in `OneDrive` or any other web-synchronized directory 
-    > \(example: dropbox\) as this can cause synchronization issues or even corruption to your data.
-    > 
+> [!CAUTION]
+> 
+> **DO NOT** place your cloned repository in `OneDrive` or any other web-synchronized directory 
+> \(example: dropbox\) as this can cause synchronization issues or even corruption to your data.
+> 
 
 2. Prepare to clone!
 
@@ -483,8 +483,8 @@ Therefore, using your IDE is not required for this lab.
 
 2. **CODE** your C program! The code you will be doing in this lab is going to be provided for you \(below\). Copy the below program into your text editor \(use the quick copy icon top copy it to your clipboard\).
 
-    > [!IMPORTANT]
-    > Be sure to **REPLACE** all the parts where you must personalize it to you **YOUR** information. This includes the commented section at the top not just the output `printf` statements within the code.
+> [!IMPORTANT]
+> Be sure to **REPLACE** all the parts where you must personalize it to you **YOUR** information. This includes the commented section at the top not just the output `printf` statements within the code.
 
     ``` C
     /*
@@ -526,24 +526,24 @@ Therefore, using your IDE is not required for this lab.
 
     You are now ready to **SAVE** your code! You **MUST** name your C source code file **`lab0.c` exactly** - this is case-sensitive so make it all **lowercase** and should not have .txt anywhere in the name. The reason for this strict file naming practice is in preparation for the submission process which relies on exact file naming conventions.
 
-    > [!CAUTION]
-    >
-    > By default, your text editor will want to save your file as a .txt file, however, you need to make 
-    > this a .c file type. \(**Reminder**: the file **MUST** be named **`lab0.c` EXACTLY** and is 
-    > case-sensitive - make it all  **lowercase**\)
-    > 
-    > Most text editor's **`Save as`** option will allow you to override the default .txt extension 
-    > to whatever you want - so make sure you change the file extension to **`.c`**
-    >
+> [!CAUTION]
+>
+> By default, your text editor will want to save your file as a .txt file, however, you need to make 
+> this a .c file type. \(**Reminder**: the file **MUST** be named **`lab0.c` EXACTLY** and is 
+> case-sensitive - make it all  **lowercase**\)
+> 
+> Most text editor's **`Save as`** option will allow you to override the default .txt extension 
+> to whatever you want - so make sure you change the file extension to **`.c`**
+>
 
-    ---
+---
 
-    > [!TIP]
-    >
-    > Normally, at this point you would be doing this using your installed IDE, where you would 
-    > `compile` your code and `execute` the program to test and make sure it works as it should. 
-    > Ideally, if there are errors at this point you want to fix them now before proceeding.
-    >
+> [!TIP]
+>
+> Normally, at this point you would be doing this using your installed IDE, where you would 
+> `compile` your code and `execute` the program to test and make sure it works as it should. 
+> Ideally, if there are errors at this point you want to fix them now before proceeding.
+>
 
 5. The next step is to save/update your work **REMOTELY** to your GitHub **`ipc144` PRIVATE** repository:
     
@@ -611,9 +611,9 @@ Therefore, using your IDE is not required for this lab.
 
     - Enter your Seneca password. It will appear as though your keystrokes are not being received, **BUT THEY ARE!** This is by design so type carefully - it is **CASE SENSITIVE**. 
 
-        > [!CAUTION]
-        > Don't make more than 3 login attempts or your account will likely be locked and 
-        > you will need ITS to reset your account!
+> [!CAUTION]
+> Don't make more than 3 login attempts or your account will likely be locked and 
+> you will need ITS to reset your account!
 
 7. **UPDATE** your repository: You must update your matrix account's cloned copy of your GitHub **`ipc144` PRIVATE** repository to match the changes you made from your own device earlier. To do this, change to the **`ipc144`** directory where you earlier cloned your GitHub **`ipc144` PRIVATE** repository:
 
