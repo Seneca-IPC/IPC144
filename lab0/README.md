@@ -669,4 +669,8 @@ int main(void)
     
     After this confirmation, your work will be submitted to your professor in an email with your files attached. You will also received a copy of the email.
 
-10. **CONFIRM** your submission: If your submission was successful, you should see an email with your copy of your submitted work. Check your email to confirm you submitted your work successfully. This lab is now completed!
+10. **CONFIRM** your submission: If your submission was successful, you should see an email with your copy of your submitted work. Check your email to confirm you submitted your work successfully. 
+
+11. The final step in completing your lab submission is to paste the direct URL link to your **PRIVATE** ipc144 GitHub repository **`lab0`** directory into Blackboard. In Blackboard, open the "Labs" folder from the course main page and click on the "Lab 0" document and follow the directions.
+
+12. This lab is now completed!
