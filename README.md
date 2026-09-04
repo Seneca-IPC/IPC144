@@ -20,11 +20,6 @@
 * [Project - 1 - Due Week 7](project1)
 * [Project - 2 - Due Week 13](project2)
 
-## Resources
-
-* [SCPA Orientation Slide Deck](orientation.pdf)
-* [CPP|CPA Program Specific Orientation Slide Deck](cpp_cpa_orientation.pdf)
-
 Use these as a self check just before your first quiz/midterm/final:
 * [Quiz 1 Sample - For practice - time this for 20 min](q1.pdf)
 * [Sample Midterm](ipc-sample-midterm.pdf)
