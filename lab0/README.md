@@ -656,7 +656,7 @@ int main(void)
 
 9. **SUBMIT** your work: It is time to submit your work using the **`submitter`** application. This is a highly structured command and you must be careful to enter the correct command reflecting **YOUR** professor and section code. The following is an example for a student who has a professor with the name **\"Seneca Professor\"** and is enrolled in the IPC144 section **\"NTT\"**:
     ```
-    ~seneca.professor/submit lab0/lab0-NTT
+    ~seneca.professor/submit 144lab0/lab0-NTT
     ```
 
     This step will launch a program used to submit your work. It will perform the following things:
