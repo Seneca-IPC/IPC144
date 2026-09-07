@@ -306,7 +306,7 @@ You will need to install this helper script on all your devices \(but **NOT** on
 3. **EXTRACT** the contents of the **\"git-push-utility.zip\"** .ZIP file to your devices filesystem. It contains a single folder/directory \"git-push-utility\" with the following structure/contents:
 
     ```
-	git-push-utility/
+	📁 git-push-utility/
 	├── 📄 README.txt              <-- Simple setup instructions for both OS types
 	├── 📁 Windows/                <-- Isolated Windows environment files
 	│   ├── ⚙️ install.bat
