@@ -350,7 +350,7 @@ You will need to `clone` (copy) your GitHub **PRIVATE `ipc144`** repository only
 
     - Copy the clone address (use the quick copy icon at the end of the line)
 
-5. Return to your terminal/command window, and type the following \(replace **`clone_url`** with the copied address from the previous step\):
+5. Return to your terminal/command window that is connected to Matrix (this is an SSH connection - not your own device : if you closed that window, reconnect to matrix before proceeding), and type the following \(replace **`clone_url`** with the copied address from the previous step\):
 
 	```
     git clone clone_url
