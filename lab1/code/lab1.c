@@ -13,4 +13,15 @@
 ***************************************************************/
 
 // Uncomment the line below IF you are using Visual Studio (MSVC compiler)
-// #define _CRT_SECURE_NO_WARNINGS
+//#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+int main(){
+     int C;
+    float F;
+    printf("Enter the Temperature in Celsius:");
+    scanf("%d",&C);
+    F=(9.0 / 5.0) * C + 32;
+    printf("%d of Celsius is %.2f in Fahrenhiet", C, F);
+    return 0;
+}
+
