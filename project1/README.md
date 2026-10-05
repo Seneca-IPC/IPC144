@@ -224,7 +224,7 @@ Additionally...
 
 ### Grading rubric
 
->[!IMPORTANT]
+> [!IMPORTANT]
 > * Project is graded out of 20.
 > * If you incur a penalty because you have a late submission or you got a grade penalty from the deductions section, **each penalty will be deducted from the calculated general rubrics grade.**
 > * For example, suppose your rubric score was 17/20 but you used a global variable and had multiple returns in a function, your grade would be reduced to 0/20.
@@ -242,7 +242,7 @@ Additionally...
 
 The same submission process is required for this project as is done for your labs, only the directory you will be pin-pointing will be `project1` and not a lab directory and the submission command is slightly different as well.
 
-> [! CAUTION]
+> [!CAUTION]
 > 
 > No alterations are to be made to your repository after you have submit to blackboard. 
 > Any changes to your repository made after the due date and/or your blackboard submission 
