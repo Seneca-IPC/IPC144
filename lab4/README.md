@@ -393,15 +393,11 @@ IPC Calculator
 	3) Calculate the nth Fibonnaci number
 	0) Exit 
 Please enter your choice: 25
-25 was not a valid entry
-Please enter your choice: 15
-15 was not a valid entry
-Please enter your choice: 2
+Value out of range - must be between 0 and 3 inclusive: 15
+Value out of range - must be between 0 and 3 inclusive: 2
 Please enter an integer between 0 and 12 inclusive: 13
-The input was not between 0 and 12
-Please enter an integer between 0 and 12 inclusive: -1
-The input was not between 0 and 12
-Please enter an integer between 0 and 12 inclusive: 4
+Value out of range - must be between 0 and 12 inclusive: -1
+Value out of range - must be between 0 and 12 inclusive: 4
 4! == 24
 IPC Calculator
 	1) Calculate 2^n
@@ -418,8 +414,7 @@ IPC Calculator
 	0) Exit 
 Please enter your choice: 3
 Please enter an integer between 0 and 45 inclusive: 46
-The input was not between 0 and 45
-Please enter an integer between 0 and 45 inclusive: 15
+Value out of range - must be between 0 and 45 inclusive: 15
 F_15 == 610
 IPC Calculator
 	1) Calculate 2^n
