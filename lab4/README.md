@@ -210,12 +210,10 @@ IPC Calculator
 	0) Exit
 Please enter your choice: 
 ```
-
-The error message when a wrong value is entered is (replace ```<input>``` with the value entered by user):
+The error message when a wrong value is entered is:
 
 ```
-<input> was not a valid entry
-Please enter your choice: 
+Value out of range - must be between 0 and 3 inclusive: 
 ```
 
 Example:
@@ -227,10 +225,8 @@ IPC Calculator
 	3) Calculate the nth Fibonnaci number
 	0) Exit
 Please enter your choice: 25
-25 was not a valid entry
-Please reenter: 15
-15 was not a valid entry
-Please reenter: 2
+Value out of range - must be between 0 and 3 inclusive: 15
+Value out of range - must be between 0 and 3 inclusive: 2
 ```
 
 ---
