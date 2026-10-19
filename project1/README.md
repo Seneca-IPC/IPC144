@@ -145,7 +145,7 @@ ____          __________
 __________          ____   
 |o o o o |    _T____|DD|
 |________|-*->|_____| _|
-  @ @ @ @ 	  /oo-@-@-@
+  @ @ @ @     /oo-@-@-@
 ```
 
 #### INVALID: Right facing train that is stacked Pancakes.. trains don't travel on top of each other!
