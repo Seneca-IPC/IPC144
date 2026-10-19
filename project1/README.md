@@ -266,7 +266,7 @@ The same submission process is required for this project as is done for your lab
 		- If you are not using the above IDE's, manually perform the 3-git commands (from anywhere within your repository directory structure):
 			```
 			git add -A
-			git commit -am "Completed lab3"
+			git commit -am "Completed project-1"
 			git push origin main
 			```
 
