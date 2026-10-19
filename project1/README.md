@@ -103,20 +103,20 @@ The ENGINE of the train must always be the first car (and should look distinctly
 
 ### Train heading right with 1 car (1 engine, 1 car)
 ```
-__________	 ____
-|o o o o |	 |DD|____T_
+__________   ____
+|o o o o |   |DD|____T_
 |________|-*-|_ |_____|<
- @ @ @ @ 	  @-@-@-oo\
+ @ @ @ @      @-@-@-oo\
+
 ```
 
 ### Same Train heading left with 1 car (1 engine, 1 car)
 
-
 ```
        ____   __________
- _T____|DD|   |o o o o |	 
+ _T____|DD|   |o o o o |     
 >|_____| _|-*-|________|
- /oo-@-@-@      @ @ @ @ 	 
+ /oo-@-@-@      @ @ @ @      
 
 ```
 
