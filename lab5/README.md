@@ -425,7 +425,7 @@ Choice: 0
 		```
 	- Change to the `lab5` directory (inside your ipc144 repository):
 		```
-		cd lab4
+		cd lab5
 		```
 	- Submit your code using the submitter. Substitute `professor.name` with your professor\'s account name, and `NQQ` with your course section code:
 		```
