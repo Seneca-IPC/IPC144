@@ -94,7 +94,7 @@ The program will:
 
 ### Defining the Currency Structure
 
-To solve this problem we want to represent a currency in a meaningful way using a `struct` to define a new data type tailored to our data requirements. The name of the structure must be called `Currency`. A `Currency` is represented by more than the exchange rate - it contains other important related attributes. Apply the below exact names for the structure members and in the same order:
+To solve this problem we want to represent a currency in a meaningful way using a `struct` to define a new data type tailored to our data requirements. The name of the structure must be called `Currency`. A `Currency` is represented by more than the exchange rate - it contains other important related attributes (Note: the iso and full name parts are derrived from: https://www.iban.com/currency-codes). Apply the below exact names for the structure members and in the same order:
 
 - `iso` - a string with a max of 3 displayable characters.  These 3 characters store the ISO name for the currency.  For example Canadian dollars is CAD
 - `rate` - a double, the amount of currency we can get with 1 Canadian Dollar
