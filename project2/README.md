@@ -360,7 +360,7 @@ Additionally...
 
 ## Submission
 
-The same submission process is required for this project as is done for your labs, only the directory you will be pin-pointing will be `project1` and not a lab directory and the submission command is slightly different as well.
+The same submission process is required for this project as is done for your labs, only the directory you will be pin-pointing will be `project2` and not a lab directory and the submission command is slightly different as well.
 
 > [!CAUTION]
 > 
