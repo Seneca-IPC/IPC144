@@ -1,0 +1,35 @@
+kiosk_id|iso|full_name|exchange_rate
+12345|USD|United States Dollar|0.73
+12345|MXN|Mexican Peso|12.93
+12345|GBP|British Pound|0.58
+12345|USD|United States Dollar|0.73
+12345|EUR|Euro|0.64
+12345|JPY|Japanese Yen|110.50
+12345|AUD|Australian Dollar|1.35
+12345|CHF|Swiss Franc|0.92
+12345|INR|Indian Rupee|83.12
+12345|BRL|Brazilian Real|5.25
+12345|ZAR|South African Rand|18.50
+12345|SGD|Singapore Dollar|0.98
+12345|HKD|Hong Kong Dollar|5.70
+12345|NZD|New Zealand Dollar|1.28
+12345|SEK|Swedish Krona|7.45
+12345|NOK|Norwegian Krone|7.80
+12345|DKK|Danish Krone|4.95
+12345|CAD|Canadian Dollar|1.00
+12345|CNY|Chinese Yuan|5.15
+12345|RUB|Russian Ruble|73.50
+12345|KRW|South Korean Won|950.00
+54321|EUR|Euro|0.64
+54321|JPY|Japanese Yen|110.50
+54321|GBP|British Pound|0.58
+67890|AUD|Australian Dollar|1.35
+67890|CHF|Swiss Franc|0.92
+67890|USD|United States Dollar|0.73
+11111|INR|Indian Rupee|83.12
+11111|BRL|Brazilian Real|5.25
+22222|ZAR|South African Rand|18.50
+88888|EUR|Euro|0.64
+77777|JPY|Japanese Yen|110.50
+22222|SGD|Singapore Dollar|0.98
+12345|THB|Thai Baht|25.50
